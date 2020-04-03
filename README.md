@@ -4,7 +4,7 @@ The project is named Portofolio with consist of updating my profile and insert s
 
 objective.
 
-The purpose of this project is to update my profile and insert some of my homeworks and projects.first, the about page show my picture accompagned with a background image. also the about page describe my current previous education, and work experience. The portofolio page illustrates some of my homeworks and projects done in classee. by clicking in each of them, user can access to each of them. in  the last page, I have included both my phone number and github link. 
+The purpose of this project is to update my profile and insert some of my homeworks and projects.first, the about page shows my picture accompagned with a background image. Also the about page describe my current previous education, and work experience. The portofolio page illustrates some of my homeworks and projects done in classee. by clicking in each of them, user can access to each of them. In  the last page, I have included both my phone number and github link. 
 
 you may click on the link bellow to see the project in activation :https://github.com/papy1974/brand-new-portofolio
 
