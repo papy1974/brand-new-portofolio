@@ -1,6 +1,12 @@
-title.
+Title.
 
 The project is named Portofolio with consist of updating my profile and insert some of my homeworks and projects.
+
+Languages and Tools used:
+
+HTML, CSS, javscript, git, and Jquery.
+
+
 
 objective.
 
